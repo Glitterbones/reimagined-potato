@@ -1,0 +1,20 @@
+{
+  "name": "reimagined-potato",
+  "version": "1.0.0",
+  "description": "JS NOTE TAKER",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Glitterbones/reimagined-potato.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Glitterbones/reimagined-potato/issues"
+  },
+  "homepage": "https://github.com/Glitterbones/reimagined-potato#readme"
+}
