@@ -1,5 +1,5 @@
 // Port used is 3001
-const PORT = process.env.PORT || 3001;
+const PORT = process.env.PORT || 5000;
 
 const { randomUUID } = require('crypto');
 const express = require('express');
