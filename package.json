@@ -13,11 +13,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Darigay/ExpressJs_Heroku_NoteTaker.git"
+    "url": "https://git.heroku.com/notes-takers-js.git"
   },
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/Darigay/ExpressJs_Heroku_NoteTaker/issues"
+    "url": "https://git.heroku.com/notes-takers-js.git/issues"
   },
-  "homepage": "https://github.com/Darigay/ExpressJs_Heroku_NoteTaker#readme"
+  "homepage": "#readme"
 }
