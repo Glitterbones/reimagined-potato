@@ -11,13 +11,5 @@
   "dependencies": {
     "express": "^4.17.3"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://git.heroku.com/notes-takers-js.git"
-  },
-  "keywords": [],
-  "bugs": {
-    "url": "https://git.heroku.com/notes-takers-js.git/issues"
-  },
-  "homepage": "https://git.heroku.com/notes-takers-js.git#readme"
+  
 }
